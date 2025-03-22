@@ -1,0 +1,7 @@
+streamlit>=1.0.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+urlextract>=0.16.0
+wordcloud>=1.8.1
+emoji>=2.0.0
